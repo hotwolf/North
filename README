@@ -1,0 +1,31 @@
+North
+=====
+
+Forth for the N1 processor
+
+Please refer to the manual for further information:
+https://github.com/hotwolf/North/blob/master/doc/North_manual.pdf
+
+Directories:
+============
+|
++-forth                 - Software      
+|  |
+|  +-src                - Source files
+|  |
+|  +-run                - Build directory
+|
++-doc                   - User manual 
+   |
+   +-src                - LaTex source files
+   |
+   +-run                - Build directory
+
+The North software is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with the N1 soft IP. If not, see
+<http://www.gnu.org/licenses/>.
